@@ -1,9 +1,10 @@
 # TestYourBrain
--app with questions you answer and get scored
--Answer all the questions in the app
--input the answer to the one with input space
--all answer carries equal marks
--there is a question with two correct answers
+- app with questions you answer and get scored
+- input your name
+- Answer all the questions in the app
+- input the answer to the one with input space
+- all answer carries equal marks
+- there is a question with two correct answers
 
 
 # How to download the app   
